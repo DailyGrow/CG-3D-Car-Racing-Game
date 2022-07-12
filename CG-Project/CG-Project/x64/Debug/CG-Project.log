@@ -1,0 +1,50 @@
+﻿  Background.cpp
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(263,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(287,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(288,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(335,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(336,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(360,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(361,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(396,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(397,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(416,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(417,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(436,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(437,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\Background.cpp(438,63): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CG-Project.cpp
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\CG-Project.cpp(160,42): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\CG-Project.cpp(161,40): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\CG-Project.cpp(273,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\CG-Project.cpp(274,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\CG-Project.cpp(277,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\CG-Project.cpp(278,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\CG-Project.cpp(287,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\CG-Project.cpp(288,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\CG-Project.cpp(301,28): warning C4305: “初始化”: 从“double”到“float”截断
+  ObjLoad.cpp
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(30,30): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(38,29): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(41,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(98,17): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(118,17): warning C4244: “初始化”: 从“double”转换到“GLint”，可能丢失数据
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(223,35): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(224,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(225,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(226,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(237,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(238,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(239,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(251,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(252,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(253,35): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(265,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(266,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(267,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(269,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(280,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(281,34): warning C4305: “初始化”: 从“double”到“float”截断
+C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\CG-Project\ObjLoad.cpp(310,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  CG-Project.vcxproj -> C:\学习\2020\计算机图形学\project\CG大程-AE86\CG大程-AE86\CG-Project\x64\Debug\CG-Project.exe

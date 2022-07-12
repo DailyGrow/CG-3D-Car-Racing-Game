@@ -1,0 +1,13 @@
+﻿  CG-Project.cpp
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(115): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(115): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(116): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(116): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(222): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(223): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(226): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(227): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buddy\documents\visual studio 2015\projects\cg-project v4\cg-project\cg-project\cg-project.cpp(237): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  CG-Project.vcxproj -> C:\Users\buddy\Documents\Visual Studio 2015\Projects\CG-Project V4\CG-Project\Debug\CG-Project.exe
+  CG-Project.vcxproj -> C:\Users\buddy\Documents\Visual Studio 2015\Projects\CG-Project V4\CG-Project\Debug\CG-Project.pdb (Full PDB)
